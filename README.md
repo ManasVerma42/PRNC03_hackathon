@@ -1,7 +1,7 @@
 # SXC-Hackathon (Animal Welfare)
 
 ## Hosted URL
-https://manasverma42.github.io/SXC-Hackathon/
+https://manasverma42.github.io/PRNC03_hackathon/
 
 ## Introduction
 
